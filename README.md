@@ -22,16 +22,16 @@ git subtree pull --prefix [PACKAGE_FOLDER_NAME] [PACKAGE_URL] [NEW TAG/SHA]
 Adding all of pacakges to `Podfile`
 
 ```
-  pod 'Collections', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
-  pod 'OrderedCollections', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
-  pod 'DequeModule', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
-  pod 'IdentifiedCollections', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
-  pod 'XCTestDynamicOverlay', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
-  pod 'CombineSchedulers', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
-  pod 'CustomDump', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
-  pod 'CasePaths', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
-  pod 'Clocks', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
-  pod 'AsyncAlgorithms', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
-  pod 'Dependencies', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
-  pod 'ComposableArchitecture', :git => 'https://github.com/Golface/CocoaPods-Composable-Architecture.git'
+  pod 'Collections', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
+  pod 'OrderedCollections', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
+  pod 'DequeModule', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
+  pod 'IdentifiedCollections', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
+  pod 'XCTestDynamicOverlay', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
+  pod 'CombineSchedulers', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
+  pod 'CustomDump', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
+  pod 'CasePaths', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
+  pod 'Clocks', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
+  pod 'AsyncAlgorithms', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
+  pod 'Dependencies', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
+  pod 'ComposableArchitecture', :git => 'https://github.com/tosinaf/CocoaPods-Composable-Architecture.git'
 ```
